@@ -42,7 +42,7 @@ const Header = () => {
               </li>
             </ul>
             <NavLink className="navbar-brand mx-auto fw-bold" to="/">
-             ORIADE APPLE PHONE MART 
+             ORIADE Apple Phone Mart
             </NavLink>
             <CartBtn />
           </div>
